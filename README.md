@@ -96,6 +96,7 @@
 | [ Robust APIs with the Hapi.js Server Framework for Node.js](https://docs.google.com/presentation/d/1EaaM8fGJqp9eUP3-E9Dpec3P5EqbM36PsoFD6z4r8pg/edit#slide=id.g35f391192_00) | [fem-instructors-app](https://github.com/chenkie/fem-instructors-app) | [Ryan Chenkie](https://github.com/chenkie) |
 | [Creating an Open Source JavaScript Library on Github](https://slides.com/kentcdodds/write-oss) | [write-oss](https://slides.com/kentcdodds/write-oss) | [Kent C. Dodds](https://github.com/kentcdodds) |
 | [Unit Testing with JavaScript](https://github.com/testdouble/real-world-testing/) | [real-world-testing](https://github.com/testdouble/real-world-testing/) | [Test Double](https://github.com/testdouble) |
+| [API Design With NODE.JS V4](https://hendrixer.github.io/API-design-v4/) | [real-world-testing](https://github.com/Hendrixer/API-design-v4-course) | [Scott Moss](https://github.com/Hendrixer) |
 
 <br>
 
