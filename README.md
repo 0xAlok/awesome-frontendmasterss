@@ -68,7 +68,6 @@
 | [TypeScript Fundamentals](https://drive.google.com/file/d/170oHzpLNeprUa-TMmOAnSU4caEFDSb3e/view) | [typescript-fundamentals](https://github.com/mike-works/typescript-fundamentals) | [Mike North](https://github.com/mike-north) |
 | [Firebase with React](https://github.com/stevekinney/think-piece) | [think-piece](https://github.com/stevekinney/think-piece) | [Steve Kinney](https://github.com/stevekinney) |
 | [Electron Fundamentals](https://gist.github.com/stevekinney/7d9927ad0059322998f68914e172f32c) | [electron-in-action](https://github.com/electron-in-action) | [Steve Kinney](https://github.com/stevekinney) |
-| [API design in Node.js with Express](https://slides.com/scotups/api-design-in-node-with-express-v3/) | [api-design-node-v3](https://github.com/FrontendMasters/api-design-node-v3) | [Scott Moss](https://github.com/Hendrixer) |
 | [SVG Essentials & Animation](https://github.com/sdras/svg-workshop#slides) | [svg-workshop](https://github.com/sdras/svg-workshop) | [Sarah Drasner](https://github.com/sdras) |
 | [Design For Developers](https://github.com/sdras/design-for-developers#slide-decks) | [design-for-developers](https://github.com/sdras/design-for-developers) | [Sarah Drasner](https://github.com/sdras) |
 | [Reactive Angular with NgRx](https://github.com/onehungrymind/angular-reactive-workshop) | [angular-reactive-workshop](https://github.com/onehungrymind/angular-reactive-workshop) | [One Hungry Mind](https://github.com/onehungrymind) |
