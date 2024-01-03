@@ -2,20 +2,50 @@
 
 <p align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://github.com/rahuldkjain/awesome-frontendmasters"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/0xAlok/awesome-frontendmasters"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </a>
-<a href="https://github.com/rahuldkjain/awesome-frontendmasters/blob/main/LICENSE">
+<a href="https://github.com/0xAlok/awesome-frontendmasters/blob/main/LICENSE">
 <img src="https://img.shields.io/github/license/rahuldkjain/awesome-frontendmasters" />
 </a>
 <br>
 <i>A curated list of awesome frontendmasters course resources
 </i>
 <br>
-<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat&label=Donate" alt="sponsor rahuldkjain"/>
+<a href="https://www.paypal.me/alokgangwarIN"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat&label=Donate" alt="sponsor alokgangwar"/>
 </a>
-<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100" style="border-radius:2px" />
+<a href="https://www.buymeacoffee.com/alokgangwar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100" style="border-radius:2px" />
 </a>
 </p>
+<br>
+
+### 🧩 BEGINNER
+Your Path to becoming a Career-Ready Web Developer!
+
+<br>
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+
+<br>
+
+Elective Coursework
+
+<br>
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Getting a Software Engineering Job, v2](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+
+### 🧓 OLD
+
 <br>
 
 | Resource | Repository | Instructor/Developer |
