@@ -27,8 +27,8 @@ Your Path to becoming a Career-Ready Web Developer!
 | ------ | ------ | ------ | ------ |
 |  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
 |  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
-|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
-|  4  | [CSS Foundations](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course slides & code](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
 |  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
 |  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
 
