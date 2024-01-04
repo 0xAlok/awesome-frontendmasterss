@@ -40,6 +40,7 @@ Your Path to becoming a Career-Ready Web Developer!
 |  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
 
 <hr>
+
 ### 🧩 PROFESSIONAL
 Your Path to becoming a Senior Web Developer!
 
@@ -133,7 +134,7 @@ Expand your abilities to the server and Master the Fullstack!
 <hr>
 
 ### 🧩 DESIGN TO CODE
-Your Path to becoming a Career-Ready Web Developer!
+Make your Designs come to Life through Code!
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
