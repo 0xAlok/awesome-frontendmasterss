@@ -40,6 +40,120 @@ Your Path to becoming a Career-Ready Web Developer!
 |  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
 
 <hr>
+### 🧩 PROFESSIONAL
+Your Path to becoming a Career-Ready Web Developer!
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course code & slides](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course code & slides](https://github.com/emmabostian/fem-css-foundations) | [Emma Bostian](https://github.com/emmabostian) |
+|  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
+|  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) | [Course Website](https://learn-a11y.netlify.app/) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+
+
+⭐ Elective Coursework
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Getting a Software Engineering Job, v2](https://frontendmasters.com/courses/getting-a-job-v2/) | [Course Notes](https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2) | [Jerome Hardaway](https://frontendmasters.com/teachers/jerome-hardaway/) |
+|  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/) | [Course Code & Website](https://github.com/jkup/mastering-chrome-devtools) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+|  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
+
+<hr>
+
+### 🧩 EXPERT
+Your Path to becoming a Career-Ready Web Developer!
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course code & slides](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course code & slides](https://github.com/emmabostian/fem-css-foundations) | [Emma Bostian](https://github.com/emmabostian) |
+|  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
+|  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) | [Course Website](https://learn-a11y.netlify.app/) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+
+
+⭐ Elective Coursework
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Getting a Software Engineering Job, v2](https://frontendmasters.com/courses/getting-a-job-v2/) | [Course Notes](https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2) | [Jerome Hardaway](https://frontendmasters.com/teachers/jerome-hardaway/) |
+|  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/) | [Course Code & Website](https://github.com/jkup/mastering-chrome-devtools) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+|  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
+
+<hr>
+
+### 🧩 COMPUTER SCIENCE
+Your Path to becoming a Career-Ready Web Developer!
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course code & slides](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course code & slides](https://github.com/emmabostian/fem-css-foundations) | [Emma Bostian](https://github.com/emmabostian) |
+|  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
+|  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) | [Course Website](https://learn-a11y.netlify.app/) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+
+
+⭐ Elective Coursework
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Getting a Software Engineering Job, v2](https://frontendmasters.com/courses/getting-a-job-v2/) | [Course Notes](https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2) | [Jerome Hardaway](https://frontendmasters.com/teachers/jerome-hardaway/) |
+|  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/) | [Course Code & Website](https://github.com/jkup/mastering-chrome-devtools) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+|  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
+
+<hr>
+
+### 🧩 FULLSTACK TO BACKEND
+Your Path to becoming a Career-Ready Web Developer!
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course code & slides](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course code & slides](https://github.com/emmabostian/fem-css-foundations) | [Emma Bostian](https://github.com/emmabostian) |
+|  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
+|  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) | [Course Website](https://learn-a11y.netlify.app/) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+
+
+⭐ Elective Coursework
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Getting a Software Engineering Job, v2](https://frontendmasters.com/courses/getting-a-job-v2/) | [Course Notes](https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2) | [Jerome Hardaway](https://frontendmasters.com/teachers/jerome-hardaway/) |
+|  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/) | [Course Code & Website](https://github.com/jkup/mastering-chrome-devtools) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+|  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
+
+<hr>
+
+### 🧩 DESIGN TO CODE
+Your Path to becoming a Career-Ready Web Developer!
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
+|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course code & slides](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
+|  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course code & slides](https://github.com/emmabostian/fem-css-foundations) | [Emma Bostian](https://github.com/emmabostian) |
+|  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
+|  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) | [Course Website](https://learn-a11y.netlify.app/) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+
+
+⭐ Elective Coursework
+
+| S.No. | Resource | Repository | Instructor |
+| ------ | ------ | ------ | ------ |
+|  1  | [Getting a Software Engineering Job, v2](https://frontendmasters.com/courses/getting-a-job-v2/) | [Course Notes](https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2) | [Jerome Hardaway](https://frontendmasters.com/teachers/jerome-hardaway/) |
+|  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/) | [Course Code & Website](https://github.com/jkup/mastering-chrome-devtools) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
+|  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
+
+<hr>
 
 ### 🧓 OLD
 Maintained by upstream account!
