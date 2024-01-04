@@ -21,8 +21,6 @@
 ### 🧩 BEGINNER
 Your Path to becoming a Career-Ready Web Developer!
 
-<br>
-
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
 |  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
@@ -32,11 +30,8 @@ Your Path to becoming a Career-Ready Web Developer!
 |  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
 |  6  | [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/) | [Course Website](https://learn-a11y.netlify.app/) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
 
-<br>
 
 ⭐ Elective Coursework
-
-<br>
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
@@ -44,9 +39,10 @@ Your Path to becoming a Career-Ready Web Developer!
 |  2  | [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/) | [Course Code & Website](https://github.com/jkup/mastering-chrome-devtools) | [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/) |
 |  3  | [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/) | [GitHub Repo](https://github.com/mike-north/seo-workshop) • [Course Slides](https://drive.google.com/drive/folders/1Efu058W0HQ9HPHRHC3DhYmXCPb6CCOJk?usp=sharing)  | [Mike North](https://frontendmasters.com/teachers/mike-north/) |
 
-### 🧓 OLD
+<hr>
 
-<br>
+### 🧓 OLD
+Maintained by upstream account!
 
 | Resource | Repository | Instructor/Developer |
 | ------ | ------ | ------ |
