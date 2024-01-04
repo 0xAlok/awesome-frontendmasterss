@@ -41,7 +41,7 @@ Your Path to becoming a Career-Ready Web Developer!
 
 <hr>
 ### 🧩 PROFESSIONAL
-Your Path to becoming a Career-Ready Web Developer!
+Your Path to becoming a Senior Web Developer!
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
@@ -64,7 +64,7 @@ Your Path to becoming a Career-Ready Web Developer!
 <hr>
 
 ### 🧩 EXPERT
-Your Path to becoming a Career-Ready Web Developer!
+Your Path to becoming a Lead/Staff Developer!
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
@@ -87,7 +87,7 @@ Your Path to becoming a Career-Ready Web Developer!
 <hr>
 
 ### 🧩 COMPUTER SCIENCE
-Your Path to becoming a Career-Ready Web Developer!
+Learn DSA with JavaScript!
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
@@ -110,7 +110,7 @@ Your Path to becoming a Career-Ready Web Developer!
 <hr>
 
 ### 🧩 FULLSTACK TO BACKEND
-Your Path to becoming a Career-Ready Web Developer!
+Expand your abilities to the server and Master the Fullstack!
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
