@@ -46,8 +46,8 @@ Your Path to becoming a Senior Web Developer!
 
 | S.No. | Resource | Repository | Instructor |
 | ------ | ------ | ------ | ------ |
-|  1  | [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) | [Course Website & Code](https://btholt.github.io/complete-intro-to-web-dev-v3/) | [Brian Holt](https://github.com/btholt) |
-|  2  | [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/) | [Course Website](https://gettingstartedwith.css.education/) | [Jen Kramer](https://github.com/jen4web) |
+|  1  | [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) | [Course Slides](https://drive.google.com/drive/folders/1wL7tRhVYGwyb6BPMymLJ64ehsNG_apaH?usp=sharing) | [Will Sentance](https://frontendmasters.com/teachers/will-sentance/) |
+|  2  | [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/) | [Course Code & slides](https://drive.google.com/drive/folders/1Bmib2E9OIo_gjSAZ2cOPptnXa4dtfNJn?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
 |  3  | [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) | [Course code & slides](https://drive.google.com/drive/folders/1DWW0OqPl9oDixJZEJkivt3QsAD2TATKw?usp=sharing) | [Kyle Simpson](https://github.com/getify) |
 |  4  | [CSS Foundations](https://frontendmasters.com/courses/css-foundations/) | [Course code & slides](https://github.com/emmabostian/fem-css-foundations) | [Emma Bostian](https://github.com/emmabostian) |
 |  5  | [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/) | [Course Website](https://anjana.dev/javascript-first-steps/) | [Anjana Vakil](https://anjana.dev/) |
