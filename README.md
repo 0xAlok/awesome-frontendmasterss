@@ -189,8 +189,7 @@ Make your Designs come to Life through Code!
 |  5  | [HTML Email Development, v2](https://frontendmasters.com/courses/html-email-v2/) | [GitHub Repo](https://github.com/rodriguezcommaj/frontendmasters) • [Course Slides](https://drive.google.com/file/d/1jeMvgc2iJmS4m0wnH6GUohdPir6vq9S3/view?usp=drive_link)| [Mike North](https://frontendmasters.com/teachers/mike-north/) |
 |  5  | [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) | [GitHub Repo](https://github.com/mattdesl/workshop-generative-art) • [Course Slides](https://drive.google.com/file/d/1Q8RakKfV6_hK2ktMxxj57BUMQgDwjDBc/view?usp=drive_link)| [Mike North](https://frontendmasters.com/teachers/mike-north/) |
 
-<hr>
 <br>
-### 🙇‍♂️ Vote of Thanks
-A big shoutout to [FrontendMasters](https://github.com/FrontendMasters) for creating high quality professional courses.
-
+ 
+ ### 🙇‍♂️ Vote of Thanks
+ A big shoutout to [FrontendMasters](https://github.com/FrontendMasters) for creating high quality professional courses.
